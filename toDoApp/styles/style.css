@@ -1,0 +1,9 @@
+body {
+  background-color: #00d1c7;
+  background-image: url("https://www.transparenttextures.com/patterns/brushed-alum-dark.png");
+
+}
+
+.borrar {
+  cursor: pointer;
+}

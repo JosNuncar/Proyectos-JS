@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(241 131 26);
+  background-image: url('https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+  background-blend-mode:luminosity;
+  color: white;
+}
+
+.borrar {
+  cursor: pointer;
+}

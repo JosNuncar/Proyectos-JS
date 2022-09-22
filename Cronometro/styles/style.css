@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.output {
+  margin: 1rem 0;
+  font-weight: normal;
+}
+
+button {
+  padding: 0.5rem 0.8rem;
+  background: rgb(241, 179, 121);
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: rgb(206, 153, 104) ;
+}
